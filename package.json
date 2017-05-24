@@ -1,0 +1,15 @@
+{
+  "name": "no-name",
+  "version": "1.0.0",
+  "description": "A Web Application to take notes and review for test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+  	"ejs": "2.5.6",
+  	"express": "4.15.2"
+  },
+  "author": "Aaron Lee",
+  "license": "EDF"
+}
