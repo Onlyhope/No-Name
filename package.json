@@ -10,6 +10,10 @@
   	"ejs": "2.5.6",
   	"express": "4.15.2"
   },
+    "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/fast-shore-85992"
+  },
   "author": "Aaron Lee",
   "license": "EDF"
 }
